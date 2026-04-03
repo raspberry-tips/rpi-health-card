@@ -1,0 +1,6 @@
+{
+  "name": "Raspberry Pi Health Card",
+  "render_readme": true,
+  "filename": "rpi-health-card.js",
+  "iot_class": "Local Push"
+}
