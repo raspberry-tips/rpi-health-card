@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raspberry-tips/rpi-health-card/main/brand/icon.png" width="120" height="120">
+</p>
+
 # Raspberry Pi Health Card
 
 Welcome to the ultimate, clean dashboard card for your Raspberry Pi Home Assistant server.
