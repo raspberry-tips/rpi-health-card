@@ -1,7 +1,5 @@
 {
   "name": "Raspberry Pi Health Card",
-  "description": "A sleek, modern Lovelace card for Raspberry Pi health monitoring and under-voltage warnings.",
-  "content_type": "plugin",
-  "render_readme": true,
-  "filename": "rpi-health-card.js"
+  "filename": "rpi-health-card.js",
+  "render_readme": true
 }
