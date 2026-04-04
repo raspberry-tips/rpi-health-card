@@ -1,6 +1,6 @@
 # Raspberry Pi Health Card for Home Assistant
 
-![Raspberry Pi Health Card Preview](brand/icon.png)
+![Raspberry Pi Health Card Preview](brand/Lovelance-Card.jpg)
 
 A sleek, modern Lovelace custom card for Home Assistant, designed specifically for Raspberry Pi users. It monitors your Pi's vital stats and alerts you instantly if a dangerous "Under-Voltage" condition occurs.
 
